@@ -1,8 +1,8 @@
 # 👋 Hola, soy Fernando Gaete
 
 <p align="center">
-  ![Followers](https://img.shields.io/github/followers/fergaete?label=Followers&style=for-the-badge)
-  ![Profile Views](https://komarev.com/ghpvc/?username=fergaete&style=for-the-badge)
+  <img src="https://img.shields.io/github/followers/fergaete?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=fergaete&style=for-the-badge" />
 </p>
 
 💻 Software Architect | Cloud Engineer | DevOps  
