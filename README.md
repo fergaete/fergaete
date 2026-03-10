@@ -51,8 +51,8 @@ AWS Certified Cloud Practitioner
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fergaete&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fergaete&layout=compact)
+![Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=fergaete&show_icons=true)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fergaete&layout=compact)
 
 ---
 
