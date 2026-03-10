@@ -51,7 +51,7 @@ Experiencia diseñando soluciones escalables utilizando **microservicios, Kubern
 
 ---
 
-## ☁️ Certificaciones
+## 🎓 Certificaciones
 
 <p align="center">
 <a href="https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1">
