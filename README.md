@@ -5,7 +5,7 @@ Software Architect | Cloud Engineer | DevOps
 </p>
 
 <p align="center">
-☁️ AWS Certified Cloud Practitioner • 📍 Santiago, Chile
+📍 Santiago, Chile
 </p>
 
 <p align="center">
