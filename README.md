@@ -1,5 +1,10 @@
 # 👋 Hola, soy Fernando Gaete
 
+<p align="center">
+  ![Followers](https://img.shields.io/github/followers/fergaete?label=Followers&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=fergaete&style=for-the-badge)
+</p>
+
 💻 Software Architect | Cloud Engineer | DevOps  
 ☁️ AWS Certified Cloud Practitioner  
 📍 Santiago, Chile
@@ -53,8 +58,6 @@ AWS Certified Cloud Practitioner
 
 ![Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=fergaete&show_icons=true)
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=fergaete&layout=compact)
-![Followers](https://img.shields.io/github/followers/fergaete?label=Followers&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=fergaete&style=for-the-badge)
 
 ---
 
