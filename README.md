@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hola, soy Fernando Gaete
 
-<!--
-**fergaete/fergaete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Architect | Cloud Engineer | DevOps  
+☁️ AWS Certified Cloud Practitioner  
+📍 Santiago, Chile
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Ingeniero en Informática y Arquitecto de Software con experiencia en el diseño de sistemas distribuidos, arquitecturas cloud y desarrollo de aplicaciones modernas.
+
+Trabajo principalmente con arquitecturas basadas en microservicios, contenedores y pipelines de CI/CD, enfocado en construir soluciones escalables, mantenibles y automatizadas.
+
+---
+
+## 🧠 Tecnologías
+
+### Backend
+- Java / Spring Boot
+- Node.js / TypeScript
+- PHP / Symfony
+- Python
+
+### Frontend
+- React
+- Next.js
+- JavaScript / TypeScript
+
+### DevOps & Cloud
+- AWS
+- Docker
+- Kubernetes
+- OpenShift
+- Terraform
+
+### CI/CD
+- GitHub Actions
+- Azure DevOps
+- Bitbucket Pipelines
+- AWS CodeBuild
+
+---
+
+## ☁️ Certificaciones
+
+AWS Certified Cloud Practitioner  
+[https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1](https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fergaete&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fergaete&layout=compact)
+
+---
+
+## 📫 Contacto
+
+LinkedIn  
+GitHub  
+
+---
