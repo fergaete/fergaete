@@ -44,8 +44,8 @@ Trabajo principalmente con arquitecturas basadas en microservicios, contenedores
 
 ## ☁️ Certificaciones
 
-AWS Certified Cloud Practitioner  
-[https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1](https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1)
+AWS Certified Cloud Practitioner
+[![AWS CCP](https://images.credly.com/size/110x110/images/8690adea-516b-48d9-9f45-b9a901151bc1/aws-cloud-practitioner.png)](https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1)
 
 ---
 
