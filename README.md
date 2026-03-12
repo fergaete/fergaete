@@ -54,9 +54,12 @@ Experiencia diseñando soluciones escalables utilizando **microservicios, Kubern
 ## 🎓 Certificaciones
 
 <p align="center">
-<a href="https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1">
-<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-</a>
+  <a href="https://www.credly.com/badges/8690adea-516b-48d9-9f45-b9a901151bc1">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/2b57b94d-bd42-40dc-91fa-8cc67fd3b20d">
+    <img src="https://images.credly.com/size/110x110/images/8f006312-3154-45bf-a845-4a043641e83c/image.png"/>
+  </a>
 </p>
 
 <p align="center">
