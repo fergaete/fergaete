@@ -38,6 +38,7 @@ Experiencia diseñando soluciones escalables utilizando **microservicios, Kubern
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![OpenShift](https://img.shields.io/badge/OpenShift-Platform-red)
